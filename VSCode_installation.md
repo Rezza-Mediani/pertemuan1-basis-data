@@ -1,4 +1,4 @@
-III.	Cara Menginstall Aplikasi VSCode
+Cara Menginstall Aplikasi VSCode
 1.	Buka aplikasi chrome pada pc atau laptop yang digunakan
 2.	Cari VSCode pada ikon search bar
 3.	Pilih code.visualstudio.com
