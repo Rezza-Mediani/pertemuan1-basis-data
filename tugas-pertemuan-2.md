@@ -39,4 +39,3 @@ b. tampilan pada PGAdmin 4
 ![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/c734cfcd-62ab-40ee-895d-8fbc9c1d61fe)
 
 
-c. tampilan pada DBeaver
