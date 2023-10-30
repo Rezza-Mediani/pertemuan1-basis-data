@@ -30,12 +30,20 @@ Setelah semua data terinput, tabel dapat dilihat dengan mengetik "SELECT * FROM 
 a. tampilan pada SQL Shell (psql)
 
 
-![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/f51093c7-bf5c-43b6-b369-b54346593e22)
+![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/cb2c32d2-fd99-41da-9458-1d089a9658b4)
+
 
 
 b. tampilan pada PGAdmin 4
 
 
-![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/c734cfcd-62ab-40ee-895d-8fbc9c1d61fe)
+![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/c40ed5db-fdd9-4d78-91a9-bc3a8069f4f6)
+
+
+
+c. tampilan pada DBeaver
+
+
+![image](https://github.com/Rezza-Mediani/pertemuan1-basis-data/assets/148309853/34558952-7471-4dbb-9a46-901fffad50e0)
 
 
